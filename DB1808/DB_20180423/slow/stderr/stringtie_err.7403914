@@ -1,0 +1,2 @@
+No temporary file /scratch/user/jochum00/DBiology/DB1808_20180423.data/slow/xellus/tmp.XXAxsDxN/_out.gtf.tmp present!
+/home/jochum00/.lsbatch/1524708592.7403914.shell: line 31:  3495 Aborted                 (core dumped) stringtie $bam_file2 -G $annotation_file -l $label2 -o $out_gtf2 -p $threads

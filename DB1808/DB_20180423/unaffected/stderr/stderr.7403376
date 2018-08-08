@@ -1,0 +1,24 @@
+Lmod has detected the following error: These module(s) exist but cannot be
+loaded as requested: "bzip2/1.0.6-intel-2015B"
+   Try: "module spider bzip2/1.0.6-intel-2015B" to see how to load the
+module(s).
+
+
+
+25414593 reads; of these:
+  25414593 (100.00%) were paired; of these:
+    5719181 (22.50%) aligned concordantly 0 times
+    18689486 (73.54%) aligned concordantly exactly 1 time
+    1005926 (3.96%) aligned concordantly >1 times
+    ----
+    5719181 pairs aligned concordantly 0 times; of these:
+      4218675 (73.76%) aligned discordantly 1 time
+    ----
+    1500506 pairs aligned 0 times concordantly or discordantly; of these:
+      3001012 mates make up the pairs; of these:
+        1018114 (33.93%) aligned 0 times
+        1546895 (51.55%) aligned exactly 1 time
+        436003 (14.53%) aligned >1 times
+98.00% overall alignment rate
+[bam_sort_core] merging from 0 files and 20 in-memory blocks...
+/home/jochum00/.lsbatch/1524688547.7403376.shell: line 62: warning: here-document at line 56 delimited by end-of-file (wanted `CITATION')

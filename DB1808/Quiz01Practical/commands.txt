@@ -1,0 +1,7 @@
+wget ftp://ftp.ensembl.org/pub/release-91/gtf/felis_catus/Felis_catus.Felis_catus_8.0.91.chr.gtf.gz
+gunzip Felis_catus.Felis_catus_8.0.91.chr.gtf.gz
+cat Felis_catus.Felis_catus_8.0.91.chr.gtf | grep -E -i -v "Exon" > No_Exon.gtf
+cat Felis_catus.Felis_catus_8.0.91.chr.gtf | grep -i "chr2" > chr2.gtf
+awk '{print $3}' Felis_catus.Felis_catus_8.0.91.chr.gtf > Column3_Felis_catus.Felis_catus_8.0.91.chr.gtf
+sed 's/gene/QUIZ/g' Column3_Felis_catus.Felis_catus_8.0.91.chr.gtf | tee Column3_Felis_catus.Felis_catus_8.0.91.chr.QUIZ.gtf
+od -b Column3_Felis_catus.Felis_catus_8.0.91.chr.QUIZ.gtf >octal.gtf

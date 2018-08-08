@@ -1,0 +1,28 @@
+otal 112
+rwxr-xr-x6 Mar .
+rwxr-xr-x6 Mar ..
+rwxr-xr-x8 Mar bin
+rwxr-xr-x6 Mar boot
+rwxr-xr-x0 Mar dev
+rwxr-xr-x8 Mar etc
+rwxr-xr-x6 Apr home
+rwxrwxrwx3 Mar initrd.img -> boot/initrd.img-4.4.0-116-generic
+rwxrwxrwx2 Sep initrd.img.old -> boot/initrd.img-4.4.0-96-generic
+rwxr-xr-x6 Mar lib
+rwxr-xr-x6 Mar lib64
+rwx------4 Oct lost+found
+rwxr-xr-x6 Oct media
+rwxr-xr-x6 Jul mnt
+rwxr-xr-x6 Jul opt
+r-xr-xr-x0 Apr proc
+rwx------6 Jul root
+rwxr-xr-x0 Apr run
+rwxr-xr-x8 Mar sbin
+rwxr-xr-x6 Jun snap
+rwxr-xr-x6 Jul srv
+r-xr-xr-x0 Apr sys
+rwxrwxrwt6 Apr tmp
+rwxr-xr-x6 Oct usr
+rwxr-xr-x6 Oct var
+rwxrwxrwx0 Mar vmlinuz -> boot/vmlinuz-4.4.0-116-generic
+rwxrwxrwx9 Sep vmlinuz.old -> boot/vmlinuz-4.4.0-96-generic

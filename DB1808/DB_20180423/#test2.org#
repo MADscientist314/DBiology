@@ -1,0 +1,37 @@
+1)Concatenate the lanes for R1 and R2  for each replicate 
+ a)czar_concat.sh
+ b)santana_concat.sh
+ c)xerdo_concat.sh 
+ d)brach_concat.sh
+ e)xellus_concat.sh
+ f)zeus_concat.sh
+ g)bigsby_concat.sh
+ h)xadius_concat.sh
+2)Run HISAT2 [[/scratch/user/jochum/
+ a)czar_concat.sh
+ b)santana_HIST.sh
+ c)xerdo_HISAT.sh
+ d)brach_HISAT.sh
+ e)xellus_HISAT.sh
+ f)zeus_concat.sh
+ g)bigsby_concat.sh
+ h)xadius_concat.sh
+3)Run Stringtie
+ a)czar_stringtie
+ b)santana_stringtie.sh
+ c)xerdo_stringtie.sh
+ d)brach_stringtie.sh
+ e)xellus_stringtie.sh
+ f)zeus_stringtie.sh
+ g)bigsby_stringtie.sh
+ h)xadius_stringtie.sh
+4)Run Stringtie Merge
+ a)fast
+ b)slow
+ c)unaffected
+5)Run Maker
+ a)fast
+ b)slow
+ c)unaffected
+6)gffcompare
+ a)

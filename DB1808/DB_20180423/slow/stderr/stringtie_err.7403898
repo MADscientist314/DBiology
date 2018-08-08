@@ -1,0 +1,6 @@
+Error: input file /scratch/user/jochum00/DBiology/DB1808_20180423.data/slow/zues/zues1_pe_aln.bam cannot be found!
+/home/jochum00/.lsbatch/1524707216.7403898.shell: line 30: 30196 Aborted                 (core dumped) stringtie $bam_file1 -G $annotation_file -l $label1 -o $out_gtf1 -p $threads
+Error: input file /scratch/user/jochum00/DBiology/DB1808_20180423.data/slow/zues/zues2_pe_aln.bam cannot be found!
+/home/jochum00/.lsbatch/1524707216.7403898.shell: line 31: 30197 Aborted                 (core dumped) stringtie $bam_file2 -G $annotation_file -l $label2 -o $out_gtf2 -p $threads
+Error: input file /scratch/user/jochum00/DBiology/DB1808_20180423.data/slow/zues/zues3_pe_aln.bam cannot be found!
+/home/jochum00/.lsbatch/1524707216.7403898.shell: line 32: 30198 Aborted                 (core dumped) stringtie $bam_file3 -G $annotation_file -l $label3 -o $out_gtf3 -p $threads

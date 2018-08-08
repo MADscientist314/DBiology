@@ -1,0 +1,2 @@
+Error: input file /scratch/user/jochum00/DBiology/DB1808_20180423.data/slow/zues/zeus3_pe_aln.bam cannot be found!
+/home/jochum00/.lsbatch/1524709828.7403934.shell: line 32: 11408 Aborted                 (core dumped) stringtie $bam_file3 -G $annotation_file -l $label3 -o $out_gtf3 -p $threads
